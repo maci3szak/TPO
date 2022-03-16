@@ -1,2 +1,2 @@
 # TPO
-Zadania z TPO(technologie programowania rozproszonego)
+Zadania z TPO(technologie programowania rozproszonego).
